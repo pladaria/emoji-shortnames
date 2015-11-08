@@ -1,0 +1,24 @@
+{
+  "name": "emoji-shortnames",
+  "version": "1.0.0",
+  "description": "List of emoji shortnames, grouped by category",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pladaria/emoji-shortnames.git"
+  },
+  "keywords": [
+    "emoji",
+    "shortnames",
+    "list"
+  ],
+  "author": "Pedro Ladaria <pedro.ladaria@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pladaria/emoji-shortnames/issues"
+  },
+  "homepage": "https://github.com/pladaria/emoji-shortnames#readme"
+}
