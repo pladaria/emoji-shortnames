@@ -1,9 +1,10 @@
 {
   "name": "emoji-shortnames",
-  "version": "1.0.1",
+  "version": "2.2.7",
   "description": "List of emoji shortnames, grouped by category",
   "main": "index.js",
   "scripts": {
+    "build": "curl 'https://raw.githubusercontent.com/Ranks/emojione/master/emoji.json' > data.json && node build.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
