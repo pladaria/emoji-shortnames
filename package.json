@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/pladaria/emoji-shortnames/issues"
   },
-  "homepage": "https://github.com/pladaria/emoji-shortnames#readme"
+  "homepage": "https://github.com/pladaria/emoji-shortnames#readme",
+  "publishConfig": {
+       "registry": "https://registry.npmjs.org/"
+  }
 }
