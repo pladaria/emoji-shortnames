@@ -11,3 +11,4 @@ const json = Object.keys(data).reduce((res, key) => {
 }, {});
 
 writeFileSync(join(__dirname, './emoji-shortnames.json'), JSON.stringify(json, null, '  '));
+writeFileSync(join(__dirname, './index.js'), 'module.exports = ' + JSON.stringify(json, null, '  ') + ';');
