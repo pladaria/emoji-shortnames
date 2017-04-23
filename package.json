@@ -1,6 +1,6 @@
 {
   "name": "emoji-shortnames",
-  "version": "2.2.8",
+  "version": "3.0.0",
   "description": "List of emoji shortnames, grouped by category",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/pladaria/emoji-shortnames#readme",
   "publishConfig": {
-       "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/"
   }
 }
