@@ -1,6 +1,6 @@
 {
   "name": "emoji-shortnames",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "List of emoji shortnames, grouped by category",
   "main": "index.js",
   "scripts": {
