@@ -2,7 +2,7 @@
 
 Just a json file with a list of all emoji shortames. Sorted and grouped by category.
 
-Data extracted from [emojione](https://emojione.com) 2.2.7
+Data extracted from [emojione](https://emojione.com) 3.1.2
 
 ## Install
 

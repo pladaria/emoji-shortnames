@@ -1,7 +1,7 @@
 const {readFileSync, writeFileSync} = require('fs');
 const {join} = require('path');
 
-const data = require('./data.json');
+const data = require('emojione/emoji.json');
 
 const json = Object.keys(data).reduce((res, key) => {
     const {category, shortname} = data[key];
